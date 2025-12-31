@@ -1,3 +1,3 @@
-github.com/Perfmini/registry
+module github.com/Perfmini/registry
 
 go 1.24.5
