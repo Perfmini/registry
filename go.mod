@@ -1,3 +1,3 @@
-module github.com/mp3cko/registry
+github.com/Perfmini/registry
 
 go 1.24.5
